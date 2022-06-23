@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "LogicAppPipeline", "LogicAppPipeline.deployproj", "{679E2BBD-00E7-4986-AF08-E95CF9F820D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{679E2BBD-00E7-4986-AF08-E95CF9F820D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{679E2BBD-00E7-4986-AF08-E95CF9F820D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{679E2BBD-00E7-4986-AF08-E95CF9F820D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{679E2BBD-00E7-4986-AF08-E95CF9F820D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18B3746B-EDEB-43E1-995E-DA7DB305F1B3}
+	EndGlobalSection
+EndGlobal
